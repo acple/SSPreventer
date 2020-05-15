@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30105.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SSPreventer", "SSPreventer\SSPreventer.csproj", "{09A08E2D-7B39-41E4-B97A-DF9DA36DAB70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A08E2D-7B39-41E4-B97A-DF9DA36DAB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A08E2D-7B39-41E4-B97A-DF9DA36DAB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A08E2D-7B39-41E4-B97A-DF9DA36DAB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A08E2D-7B39-41E4-B97A-DF9DA36DAB70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C07E81B3-8396-42A4-A2A3-A4A943E62083}
+	EndGlobalSection
+EndGlobal
